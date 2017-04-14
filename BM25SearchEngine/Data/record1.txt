@@ -1,0 +1,5 @@
+1,Ramesh,1,A,10-jan-1990
+
+Anushka Jejani is a girl.
+
+Akshay Bhawsar's roll number is 5.
